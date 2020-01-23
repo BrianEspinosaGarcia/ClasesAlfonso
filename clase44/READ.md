@@ -4,6 +4,6 @@ Descripción: Conocer el entorno REPL de Node, para hacer pruebas rápidas de c�
 
  Objetivos:
 
-●Experimentar con la REPL de Node.●Crear módulos de Node y exportarlos.
-●Conocer los comandos de npm para descargar módulos.
-●Conocer la estructura del package.json.●Declarar scripts en el package.json
+  ●Experimentar con la REPL de Node.●Crear módulos de Node y exportarlos.
+  ●Conocer los comandos de npm para descargar módulos.
+  ●Conocer la estructura del package.json.●Declarar scripts en el package.json
