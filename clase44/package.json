@@ -1,0 +1,17 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "'This is the fisth file in NodeJS",
+  "main": "clase44.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfonso Rios",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
